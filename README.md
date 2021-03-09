@@ -1,2 +1,2 @@
-# Arvore-binaria
- Árvore binária, criar, buscar e deletar
+# Árvore binária
+ Árvore binária: criar, buscar e deletar.
